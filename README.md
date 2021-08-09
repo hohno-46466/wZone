@@ -1,2 +1,1 @@
-# wZone
-Windows Zone
+# wZone - Windows Zone
