@@ -1,1 +1,3 @@
-# wZone - Windows Zone
+# GitHub/wZone - Windows Zone
+
+-EOF-
