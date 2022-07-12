@@ -6,7 +6,7 @@ Windows Zone
      ├──   README.md
      └──   README.md.old
      
-     0 directories, 2 files (Sun Jul 10 12:29:02 JST 2022)
+     0 directories, 2 files (Tue Jul 12 21:06:48 JST 2022)
 
 
     ./wZone--Windows--KeyboardShortcuts
@@ -17,7 +17,7 @@ Windows Zone
      ├──   Vimium.tsv
      └──   WindowsKeyboardShortcuts.tsv
      
-     0 directories, 6 files (Sun Jul 10 12:29:02 JST 2022)
+     0 directories, 6 files (Tue Jul 12 21:06:48 JST 2022)
 
 
 Note:	url = https://github.com/hohno-46466/wZone
