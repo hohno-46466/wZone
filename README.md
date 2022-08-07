@@ -20,8 +20,8 @@ Windows Zone
      0 directories, 7 files (Mon Aug  8 02:56:15 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/wZone
+Note: URL = https://github.com/hohno-46466/wZone
 
-Note: url = git@github.com:hohno-46466/wZone.git
+Note: URL = git@github.com:hohno-46466/wZone.git
 
 -EOF-
